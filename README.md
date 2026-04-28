@@ -1,4 +1,4 @@
-# ⚽ European Football Commentary Generator
+# ⚽ Football Commentary Generator
 
 A randomized sports commentary generator built with JavaScript. Every time you run the program, you get a unique, dramatic football commentary line — just like a real match broadcast!
 
